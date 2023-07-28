@@ -1,0 +1,36 @@
+	    *
+
+    	    ↓
+
+컨셉 컬러는 Black & White
+컨셉은 Semantic & Simple (+ Mechanical)
+반응형 적용
+스크롤 이벤트?
+
+
+
+Left_remote_Controller
+	
+	    ↓ 
+	    
+position: fixed;
+left: 1 ~ 10% ( Contents 따라 조정 )
+bottom: 1 ~ 10% ( Contents 따라 조정 )
+
+
+Title
+		
+	    ↓
+
+간단한 문구로 구성
+조각 이펙트?
+
+
+
+Main_Contents
+
+	    ↓
+
+웹 사이트 & 디자인으로 분류
+보드형 게시판 형식
+타이틀 mouseover 시 전환
